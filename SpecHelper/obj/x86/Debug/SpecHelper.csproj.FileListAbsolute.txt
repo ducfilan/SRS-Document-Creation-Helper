@@ -1,0 +1,11 @@
+C:\FPT\ThinhLD1\Embrace Tools\Multilingual Tools\SpecHelper\SpecHelper\bin\Debug\SpecHelper.exe.config
+C:\FPT\ThinhLD1\Embrace Tools\Multilingual Tools\SpecHelper\SpecHelper\bin\Debug\SpecHelper.exe
+C:\FPT\ThinhLD1\Embrace Tools\Multilingual Tools\SpecHelper\SpecHelper\bin\Debug\SpecHelper.pdb
+C:\FPT\ThinhLD1\Embrace Tools\Multilingual Tools\SpecHelper\SpecHelper\obj\x86\Debug\SpecHelper.csprojResolveAssemblyReference.cache
+C:\FPT\ThinhLD1\Embrace Tools\Multilingual Tools\SpecHelper\SpecHelper\obj\x86\Debug\SpecHelper.FormSetupDatabase.resources
+C:\FPT\ThinhLD1\Embrace Tools\Multilingual Tools\SpecHelper\SpecHelper\obj\x86\Debug\SpecHelper.FormSpecHelper.resources
+C:\FPT\ThinhLD1\Embrace Tools\Multilingual Tools\SpecHelper\SpecHelper\obj\x86\Debug\SpecHelper.Properties.Resources.resources
+C:\FPT\ThinhLD1\Embrace Tools\Multilingual Tools\SpecHelper\SpecHelper\obj\x86\Debug\SpecHelper.UpdateProgramResult.resources
+C:\FPT\ThinhLD1\Embrace Tools\Multilingual Tools\SpecHelper\SpecHelper\obj\x86\Debug\SpecHelper.csproj.GenerateResource.Cache
+C:\FPT\ThinhLD1\Embrace Tools\Multilingual Tools\SpecHelper\SpecHelper\obj\x86\Debug\SpecHelper.exe
+C:\FPT\ThinhLD1\Embrace Tools\Multilingual Tools\SpecHelper\SpecHelper\obj\x86\Debug\SpecHelper.pdb
